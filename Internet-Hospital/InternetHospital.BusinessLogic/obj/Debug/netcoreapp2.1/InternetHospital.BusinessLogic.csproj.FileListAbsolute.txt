@@ -1,0 +1,12 @@
+C:\Users\Edward\source\repos\WebApi_project_SS_TESTING\Internet-Hospital\InternetHospital.BusinessLogic\bin\Debug\netcoreapp2.1\InternetHospital.BusinessLogic.deps.json
+C:\Users\Edward\source\repos\WebApi_project_SS_TESTING\Internet-Hospital\InternetHospital.BusinessLogic\bin\Debug\netcoreapp2.1\InternetHospital.BusinessLogic.dll
+C:\Users\Edward\source\repos\WebApi_project_SS_TESTING\Internet-Hospital\InternetHospital.BusinessLogic\obj\Debug\netcoreapp2.1\InternetHospital.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Edward\source\repos\WebApi_project_SS_TESTING\Internet-Hospital\InternetHospital.BusinessLogic\obj\Debug\netcoreapp2.1\InternetHospital.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Edward\source\repos\WebApi_project_SS_TESTING\Internet-Hospital\InternetHospital.BusinessLogic\obj\Debug\netcoreapp2.1\InternetHospital.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Edward\source\repos\WebApi_project_SS_TESTING\Internet-Hospital\InternetHospital.BusinessLogic\obj\Debug\netcoreapp2.1\InternetHospital.BusinessLogic.AssemblyInfo.cs
+C:\Users\Edward\source\repos\WebApi_project_SS_TESTING\Internet-Hospital\InternetHospital.BusinessLogic\bin\Debug\netcoreapp2.1\InternetHospital.BusinessLogic.pdb
+C:\Users\Edward\source\repos\WebApi_project_SS_TESTING\Internet-Hospital\InternetHospital.BusinessLogic\obj\Debug\netcoreapp2.1\InternetHospital.BusinessLogic.dll
+C:\Users\Edward\source\repos\WebApi_project_SS_TESTING\Internet-Hospital\InternetHospital.BusinessLogic\obj\Debug\netcoreapp2.1\InternetHospital.BusinessLogic.pdb
+C:\Users\Edward\source\repos\WebApi_project_SS_TESTING\Internet-Hospital\InternetHospital.BusinessLogic\bin\Debug\netcoreapp2.1\InternetHospital.DataAccess.dll
+C:\Users\Edward\source\repos\WebApi_project_SS_TESTING\Internet-Hospital\InternetHospital.BusinessLogic\bin\Debug\netcoreapp2.1\InternetHospital.DataAccess.pdb
+C:\Users\Edward\source\repos\WebApi_project_SS_TESTING\Internet-Hospital\InternetHospital.BusinessLogic\obj\Debug\netcoreapp2.1\InternetHospital.BusinessLogic.csproj.CopyComplete
